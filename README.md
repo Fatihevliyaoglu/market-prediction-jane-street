@@ -6,6 +6,7 @@ Machine learning project for predicting market data using LSTM and hyperparamete
 ## Project Structure
 
 ´´´
+
 market-prediction-jane-street/
 ├── data/
 │   ├── raw/           # Original competition data
@@ -35,6 +36,7 @@ market-prediction-jane-street/
 │
 ├── requirements.txt
 └── README.md
+
 ´´´
 
 ## Models Implemented
